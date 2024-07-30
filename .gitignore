@@ -13,6 +13,10 @@ dist-ssr
 *.local
 
 .env
+.env
+.env.example
+.env.local
+.env.staging
 
 env
 
@@ -26,3 +30,9 @@ env
 *.njsproj
 *.sln
 *.sw?
+
+
+*.env
+*.env.example
+*.env.local
+*.env.staging
